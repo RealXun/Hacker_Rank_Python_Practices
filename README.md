@@ -5,7 +5,7 @@
 
 Here is the list of Python Practices in Hacker Rank
 
-### Introduction to python (0/6)
+### Introduction to python (0/7)
 --------------------------------------
 <details>
   <summary>Click to see Introduction</summary>
@@ -16,6 +16,7 @@ Here is the list of Python Practices in Hacker Rank
 4. Loops
 5. Write a function
 6. Print Function
+7. Arithmetic Operators
 
 </details>
 
