@@ -93,36 +93,108 @@ Here is the list of Python Practices in Hacker Rank
     
 ### Itertools
 --------------------------------------
+<details>
+  <summary>Click to see Itertools</summary>
+
+
+
+</details>
 
 ### Collections
 --------------------------------------
+<details>
+  <summary>Click to see Collections</summary>
+
+
+
+</details>
 
 ### Date and Time
 --------------------------------------
+<details>
+  <summary>Click to see Date and Time</summary>
+
+
+
+</details>
 
 ### Errors and Exceptions
 --------------------------------------
+<details>
+  <summary>Click to see Errors and Exceptions</summary>
+
+
+
+</details>
 
 ### Classes
 --------------------------------------
+<details>
+  <summary>Click to see Classes</summary>
+
+
+
+</details>
 
 ### Built-Ins
 --------------------------------------
+<details>
+  <summary>Click to see Built-Ins</summary>
+
+
+
+</details>
 
 ### Python Functionals
 --------------------------------------
+<details>
+  <summary>Click to see Python Functionals</summary>
+
+
+
+</details>
 
 ### Regex and Parsing
 --------------------------------------
+<details>
+  <summary>Click to see Regex and Parsing</summary>
+
+
+
+</details>
 
 ### XML
 --------------------------------------
+<details>
+  <summary>Click to see XML</summary>
+
+
+
+</details>
 
 ### Closures and Decorators
 --------------------------------------
+<details>
+  <summary>Click to see Closures and Decorators</summary>
+
+
+
+</details>
 
 ### Numpy
 --------------------------------------
+<details>
+  <summary>Click to see Numpy</summary>
+
+
+
+</details>
 
 ### Debugging
 --------------------------------------
+<details>
+  <summary>Click to see Debugging</summary>
+
+
+
+</details>
