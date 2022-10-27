@@ -5,7 +5,7 @@
 
 Here is the list of Python Practices in Hacker Rank
 
-### Introduction to python
+### Introduction to python (0/7)
 --------------------------------------
 <details>
   <summary>Click to see Introduction</summary>
@@ -16,10 +16,11 @@ Here is the list of Python Practices in Hacker Rank
 4. Loops
 5. Write a function
 6. Print Function
+7. Arithmetic Operators
 
 </details>
 
-### Basic Data Types
+### Basic Data Types (0/6)
 --------------------------------------
 <details>
   <summary>Click to see Basic Data Types </summary>
@@ -33,7 +34,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### Strings
+### Strings (0/14)
 --------------------------------------
 <details>
   <summary>Click to see Strings</summary>
@@ -55,7 +56,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
     
-### Sets
+### Sets (0/13)
 --------------------------------------
 <details>
   <summary>Click to see Sets</summary>
@@ -76,7 +77,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
     
-### Math
+### Math (0/7)
 --------------------------------------
 <details>
   <summary>Click to see Math</summary>
@@ -91,7 +92,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
     
-### Itertools
+### Itertools (0/7)
 --------------------------------------
 <details>
   <summary>Click to see Itertools</summary>
@@ -106,7 +107,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### Collections
+### Collections (0/8)
 --------------------------------------
 <details>
   <summary>Click to see Collections</summary>
@@ -122,7 +123,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### Date and Time
+### Date and Time (0/2)
 --------------------------------------
 <details>
   <summary>Click to see Date and Time</summary>
@@ -132,7 +133,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### Errors and Exceptions
+### Errors and Exceptions (0/2)
 --------------------------------------
 <details>
   <summary>Click to see Errors and Exceptions</summary>
@@ -142,7 +143,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### Classes
+### Classes (0/2)
 --------------------------------------
 <details>
   <summary>Click to see Classes</summary>
@@ -152,7 +153,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### Built-Ins
+### Built-Ins (0/6)
 --------------------------------------
 <details>
   <summary>Click to see Built-Ins</summary>
@@ -166,7 +167,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### Python Functionals
+### Python Functionals (0/3)
 --------------------------------------
 <details>
   <summary>Click to see Python Functionals</summary>
@@ -177,7 +178,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### Regex and Parsing
+### Regex and Parsing (0/17)
 --------------------------------------
 <details>
   <summary>Click to see Regex and Parsing</summary>
@@ -202,7 +203,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### XML
+### XML (0/2)
 --------------------------------------
 <details>
   <summary>Click to see XML</summary>
@@ -212,7 +213,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### Closures and Decorators
+### Closures and Decorators (0/2)
 --------------------------------------
 <details>
   <summary>Click to see Closures and Decorators</summary>
@@ -222,7 +223,7 @@ Here is the list of Python Practices in Hacker Rank
 
 </details>
 
-### Numpy
+### Numpy (0/15)
 --------------------------------------
 <details>
   <summary>Click to see Numpy</summary>
@@ -245,7 +246,7 @@ Here is the list of Python Practices in Hacker Rank
     
 </details>
 
-### Debugging
+### Debugging (0/2)
 --------------------------------------
 <details>
   <summary>Click to see Debugging</summary>
