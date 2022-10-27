@@ -3,7 +3,7 @@
     <img src="https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/Resources/Cover.png" width="250">
 </p>
 
-Here is the list of Python Practices in HackerRank
+Here is the list of Python Practices from HackerRank that I am doing (2/115)
 
 ### Introduction to python (2/7)
 --------------------------------------
