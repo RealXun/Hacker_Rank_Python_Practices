@@ -7,6 +7,9 @@ Here is the list of Python Practices in Hacker Rank
 
 ### Introduction to python
 --------------------------------------
+<details>
+  <summary>Click to see Introduction</summary>
+    
 1. Say "Hello, World!" With Python
 2. Python If-Else
 3. Python: Division
@@ -14,8 +17,13 @@ Here is the list of Python Practices in Hacker Rank
 5. Write a function
 6. Print Function
 
+</details>
+
 ### Basic Data Types
 --------------------------------------
+<details>
+  <summary>Click to see Basic Data Types </summary>
+    
 1. List Comprehensions
 2. Find the Runner-Up Score!
 3. Nested Lists
@@ -23,9 +31,13 @@ Here is the list of Python Practices in Hacker Rank
 5. Lists
 6. Tuples
 
+</details>
+
 ### Strings
 --------------------------------------
-
+<details>
+  <summary>Click to see Strings</summary>
+    
 1. sWAP cASE
 2. String Split and Join
 3. What's Your Name?
@@ -41,9 +53,13 @@ Here is the list of Python Practices in Hacker Rank
 13. The Minion Game
 14. Merge the Tools!
 
+</details>
+    
 ### Sets
 --------------------------------------
-
+<details>
+  <summary>Click to see Sets</summary>
+    
 1. Introduction to Sets
 2. No Idea!
 3. Symmetric Difference
@@ -58,9 +74,13 @@ Here is the list of Python Practices in Hacker Rank
 12. Check Subset
 13. Check Strict Superset
 
+</details>
+    
 ### Math
 --------------------------------------
-
+<details>
+  <summary>Click to see Math</summary>
+    
 1. Polar Coordinates
 2. Find Angle MBC
 3. Triangle Quest 2
@@ -69,6 +89,8 @@ Here is the list of Python Practices in Hacker Rank
 6. Integers Come In All Sizes
 7. Triangle Quest
 
+</details>
+    
 ### Itertools
 --------------------------------------
 
