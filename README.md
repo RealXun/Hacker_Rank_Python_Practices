@@ -1,9 +1,9 @@
-# Hacker Rank Python Practices
+# HackerRank Python Practices
 <p align="center">
     <img src="https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/Resources/Cover.png" width="250">
 </p>
 
-Here is the list of Python Practices in Hacker Rank
+Here is the list of Python Practices in HackerRank
 
 ### Introduction to python (2/7)
 --------------------------------------
