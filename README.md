@@ -3,7 +3,7 @@
     <img src="https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/Resources/Cover.png" width="250">
 </p>
 
-Here is the list of Python Practices from HackerRank that I am doing (8/115)
+Here is the list of Python Practices from HackerRank that I am doing (9/115)
 
 ### Introduction to python (7/7)
 --------------------------------------
@@ -20,14 +20,14 @@ Here is the list of Python Practices from HackerRank that I am doing (8/115)
 
 </details>
 
-### Basic Data Types (1/6)
+### Basic Data Types (2/6)
 --------------------------------------
 <details>
   <summary>Click to see Basic Data Types </summary>
     
 1. List Comprehensions [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/02_Basic%20Data%20Types/List%20Comprehensions.ipynb)
-2. Find the Runner-Up Score! [Jupyter File Here]()
-3. Nested Lists
+2. Find the Runner-Up Score! [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/02_Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!.ipynb)
+3. Nested Lists [Jupyter File Here]()
 4. Finding the percentage
 5. Lists
 6. Tuples
