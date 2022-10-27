@@ -1,17 +1,17 @@
-# Hacker Rank Python Practices
+# HackerRank Python Practices
 <p align="center">
     <img src="https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/Resources/Cover.png" width="250">
 </p>
 
-Here is the list of Python Practices in Hacker Rank
+Here is the list of Python Practices from HackerRank that I am doing (2/115)
 
-### Introduction to python (0/7)
+### Introduction to python (2/7)
 --------------------------------------
 <details>
   <summary>Click to see Introduction</summary>
     
-1. Say "Hello, World!" With Python
-2. Python If-Else
+1. Say "Hello, World!" With Python [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Hello.ipynb)
+2. Python If-Else [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Python_If-Else.ipynb)
 3. Python: Division
 4. Loops
 5. Write a function
