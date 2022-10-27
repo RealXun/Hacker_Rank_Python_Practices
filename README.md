@@ -12,11 +12,11 @@ Here is the list of Python Practices from HackerRank that I am doing (8/115)
     
 1. Say "Hello, World!" With Python [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Hello.ipynb)
 2. Python If-Else [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Python_If-Else.ipynb)
-3. Python: Division
-4. Loops
-5. Write a function
-6. Print Function
-7. Arithmetic Operators
+3. Python: Division [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Python_Division.ipynb)
+4. Loops [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Loops.ipynb)
+5. Write a function [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Write%20a%20function.ipynb)
+6. Print Function [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Print%20Function.ipynb)
+7. Arithmetic Operators [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Arithmetic%20Operators.ipynb)
 
 </details>
 
@@ -25,8 +25,8 @@ Here is the list of Python Practices from HackerRank that I am doing (8/115)
 <details>
   <summary>Click to see Basic Data Types </summary>
     
-1. List Comprehensions
-2. Find the Runner-Up Score!
+1. List Comprehensions [Jupyter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/02_Basic%20Data%20Types/List%20Comprehensions.ipynb)
+2. Find the Runner-Up Score! [Jupyter File Here]()
 3. Nested Lists
 4. Finding the percentage
 5. Lists
