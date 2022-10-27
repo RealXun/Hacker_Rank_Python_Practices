@@ -10,8 +10,8 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Introduction</summary>
     
-1. Say "Hello, World!" With Python
-2. Python If-Else
+1. Say "Hello, World!" With Python [Jupiter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Hello.ipynb)
+2. Python If-Else [Jupiter File Here](https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/01_Introduction%20to%20python/Python_If-Else.ipynb)
 3. Python: Division
 4. Loops
 5. Write a function
