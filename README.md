@@ -3,9 +3,9 @@
     <img src="https://github.com/RealXun/Hacker_Rank_Python_Practices/blob/main/Resources/Cover.png" width="250">
 </p>
 
-Here is the list of Python Practices from HackerRank that I am doing (2/115)
+Here is the list of Python Practices from HackerRank that I am doing (8/115)
 
-### Introduction to python (2/7)
+### Introduction to python (7/7)
 --------------------------------------
 <details>
   <summary>Click to see Introduction</summary>
@@ -20,7 +20,7 @@ Here is the list of Python Practices from HackerRank that I am doing (2/115)
 
 </details>
 
-### Basic Data Types (0/6)
+### Basic Data Types (1/6)
 --------------------------------------
 <details>
   <summary>Click to see Basic Data Types </summary>
