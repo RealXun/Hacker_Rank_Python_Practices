@@ -1,2 +1,1 @@
-# Hacker_Rank_Python_Practices
-Hacker_Rank_Python_Practices
+# Hacker Rank Python Practices
