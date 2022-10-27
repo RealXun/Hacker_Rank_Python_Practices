@@ -96,7 +96,13 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Itertools</summary>
 
-
+1. itertools.product()
+2. itertools.permutations()
+3. itertools.combinations()
+4. itertools.combinations_with_replacement()
+5. Compress the String!
+6. Iterables and Iterators
+7. Maximize It!
 
 </details>
 
@@ -105,7 +111,14 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Collections</summary>
 
-
+1. collections.Counter()
+2. DefaultDict Tutorial
+3. Collections.namedtuple()
+4. Collections.OrderedDict()
+5. Word Order
+6. Collections.deque()
+7. Company Logo
+8. Piling Up!
 
 </details>
 
@@ -114,7 +127,8 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Date and Time</summary>
 
-
+1. Calendar Module
+2. Time Delta
 
 </details>
 
@@ -123,7 +137,8 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Errors and Exceptions</summary>
 
-
+1. Exceptions
+2. Incorrect Regex
 
 </details>
 
@@ -132,7 +147,8 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Classes</summary>
 
-
+1. Classes: Dealing with Complex Numbers
+2. Class 2 - Find the Torsional Angle
 
 </details>
 
@@ -141,7 +157,12 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Built-Ins</summary>
 
-
+1. Zipped!
+2. Input()
+3. Python Evaluation
+4. Athlete Sort
+5. Any or All
+6. ginortS
 
 </details>
 
@@ -150,7 +171,9 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Python Functionals</summary>
 
-
+1. Map and Lambda Function
+2. Validating Email Addresses With a Filter
+3. Reduce Function
 
 </details>
 
@@ -159,7 +182,23 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Regex and Parsing</summary>
 
-
+1. Detect Floating Point Number
+2. Re.split()
+3. Group(), Groups() & Groupdict()
+4. Re.findall() & Re.finditer()
+5. Re.start() & Re.end()
+6. Regex Substitution
+7. Validating Roman Numerals
+8. Validating phone numbers
+9. Validating and Parsing Email Addresses
+10.Hex Color Code
+11. HTML Parser - Part 1
+12. HTML Parser - Part 2
+13. Detect HTML Tags, Attributes and Attribute Values
+14. Validating UID
+15. Validating Credit Card Numbers
+16. Validating Postal Codes
+17. Matrix Script
 
 </details>
 
@@ -168,7 +207,8 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see XML</summary>
 
-
+1. XML 1 - Find the Score
+2. XML2 - Find the Maximum Depth
 
 </details>
 
@@ -177,7 +217,8 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Closures and Decorators</summary>
 
-
+1. Standardize Mobile Number Using Decorators
+2. Decorators 2 - Name Directory
 
 </details>
 
@@ -186,8 +227,22 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Numpy</summary>
 
-
-
+1. Arrays
+2. Shape and Reshape
+3. Transpose and Flatten
+4. Concatenate
+5. Zeros and Ones
+6. Eye and Identity
+7. Array Mathematics
+8. Floor, Ceil and Rint
+9. Sum and Prod
+10. Min and Max
+11. Mean, Var, and Std
+12. Dot and Cross
+13. Inner and Outer
+14. Polynomials
+15. Linear Algebra
+    
 </details>
 
 ### Debugging
@@ -195,6 +250,7 @@ Here is the list of Python Practices in Hacker Rank
 <details>
   <summary>Click to see Debugging</summary>
 
-
+1. Words Score
+2. Default Arguments
 
 </details>
